@@ -1,0 +1,35 @@
+body {
+    background-color: azure;
+}
+
+h1 {
+    text-transform: uppercase;
+    font-family: monospace;
+    text-align: center;
+    font-weight: 100;
+    font-size: 40px;
+    letter-spacing: 20px;
+    text-decoration: plum wavy underline;
+}
+
+h1, h3 {
+    color: #7192be;
+    font-family: "Gill Sans", sans-serif;
+    text-align: center;
+}
+
+h2 {
+    color:#7192be;
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+}
+
+p, li {
+    font-size: 15px;
+    color: #7192BE;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+a {
+    text-decoration: none;
+}
